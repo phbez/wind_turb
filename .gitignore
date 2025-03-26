@@ -1,0 +1,27 @@
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+
+ph311env/
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
